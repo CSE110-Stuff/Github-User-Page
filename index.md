@@ -1,5 +1,7 @@
 # _Wesley Trinh_
-> _“If I give up now, I'm going to regret it.”_
+> _“If I give up now, I'm going to regret it.”_   
+
+![test](luffySmile.gif)
 ## _About me_
 **Name:** Wesley Trinh \
 **Education:** Junior at UCSD \
