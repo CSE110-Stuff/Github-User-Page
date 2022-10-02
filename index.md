@@ -31,7 +31,7 @@ touch
    - Playing Piano 🎹 
 
 
-## :desktop_computer: _Knowledge_ :desktop_computer:
+##  _Knowledge_ 
 ### **Languages:**
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
