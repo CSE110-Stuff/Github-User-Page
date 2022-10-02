@@ -1,5 +1,5 @@
 # _Wesley Trinh_
-
+> _“If I give up now, I'm going to regret it.”_
 ## _About me_
 **Name:** Wesley Trinh \
 **Education:** Junior at UCSD \
@@ -8,6 +8,7 @@
 - [ ] Improve communication skills
 - [ ] Learn to work better in a team environment
 - [ ] Work on human skills to better myself  
+- [ ] Learn about the Software Engineering industry
 
 **Hobbies:**
   - Video Games: :video_game: 
@@ -26,11 +27,12 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-### Developer Tools:**
+### **Developer Tools:**
 - Eclipse
 - GitBash
 - Atom
 - vscode (Learning)
 - Android Studio
 ## _Contact Me_
-
+- [LinkedIn](www.linkedin.com/in/wesleytrinh)
+- [GitHub](https://github.com/wtrinh02)
