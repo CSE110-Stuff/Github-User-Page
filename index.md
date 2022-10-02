@@ -2,10 +2,16 @@
 > _“If I give up now, I'm going to regret it.”_   
 
 ![test](luffySmile.gif)
+
 ## _About me_
 **Name:** Wesley Trinh \
 **Education:** Junior at UCSD \
-**Description:**  Hi! I'm [Wesley Trinh](README.md), a junior at UCSD, and I have been coding since freshman year of college. I have experience coding in Java, C++, and past knowledge on C and Kotlin. \
+**Description:**  Hi! I'm [Wesley Trinh](README.md), a junior at UCSD, and I have been coding since freshman year of college. I have experience coding in Java, C++, and past knowledge on C and Kotlin. Some of my favorite command line commands are:
+```
+ls -l
+diff
+touch
+```
 **Goals for Class:**
 - [ ] Improve communication skills
 - [ ] Learn to work better in a team environment
@@ -42,5 +48,5 @@
 - [Flixter](https://github.com/wtrinh02/Flixter)
 - [SimpleTweet](https://github.com/wtrinh02/SimpleTweet)
 ## _Contact Me_
-- [LinkedIn](www.linkedin.com/in/wesleytrinh)
+- [LinkedIn](https://www.linkedin.com/in/wesleytrinh/)
 - [GitHub](https://github.com/wtrinh02)
