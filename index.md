@@ -1,3 +1,3 @@
 # Wesley's User Page
-## Programming Experience
-## Hobbies
+### Programming Experience
+### Hobbies
